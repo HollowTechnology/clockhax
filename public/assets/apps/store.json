@@ -1,7 +1,7 @@
 {
     "name": "Clockwork Store",
     "desc": "The one-stop shop for Clockwork apps and themes.",
-    "url": "https://clockwork-store-xi.vercel.app",
+    "url": "https://example.com", 
     "encodedUrl": "no",
     "icon": "/assets/images/store.png",
     "version": "1.0.0",
