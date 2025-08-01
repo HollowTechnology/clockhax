@@ -316,9 +316,7 @@ Factory resets will remove ALL your data from Clockwork, including apps, themes 
           stolas<br>
           Quino Al<br>
           Bernard Spragg<br>
-          and you for using our stuff`
-            <button onclick="promptInstallApp('https://raw.githubusercontent.com/iddu0/iddu0.github.io/main/misc/app.json')">install app</button>
-                
+          and you for using our stuff`                
             }
         }]
     },
